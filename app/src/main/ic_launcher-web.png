@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <target>android-23</target>
+      </config>
+    </shared>
+    <layouts>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+        <config>
+          <theme>@style/AppTheme.NoActionBar</theme>
+        </config>
+      </layout>
+    </layouts>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0accf0bf-156b-498d-b0c0-2315811ee67f" name="Default" comment="" />
+    <ignored path="Geo Time Clock.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <PATH>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalProjectsStructure$RootNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="GeoTimeClock" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
+              </PATH_ELEMENT>
+            </PATH>
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Geo Time Clock" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile_vertical" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="D:\Oso\Documents\BUS\Desarrollo\Android\keystores\BrainUpCo\BrainUpCo.jks" />
+    <option name="KEY_ALIAS" value="BrainUpCo" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/prueba.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/roundcorner.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/content_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/brainupco/geotimeclock/MyLocation.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/brainupco/geotimeclock/AsyncTaskExample.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/xml/pref_general.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/brainupco/geotimeclock/CheckInJson.java" />
+        <option value="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values/values.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/brainupco/geotimeclock/SettingsActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/brainupco/geotimeclock/Utility.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/brainupco/geotimeclock/CheckOutJson.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/brainupco/geotimeclock/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1932" />
+    <option name="height" value="997" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="1" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="AndroidView">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Geo Time Clock" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Geo Time Clock" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.NonAndroidModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GeoTimeClock" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.settings.ics" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="last_opened_file_path" value="D:/Temp/Android/FragmentBasics" />
+    <property name="device.picker.selection" value="BHG7N15C29054747" />
+    <property name="android.project.structure.last.selected" value="app" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="ExportApk.ApkPath" value="D:\GitHub\GeoTimeClock\app" />
+    <property name="ExportApk.Flavors" value="" />
+    <property name="ExportApk.BuildType" value="release" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GitHub\GeoTimeClock\app\src\main\java\com\brainupco\geotimeclock" />
+      <recent name="D:\GitHub\GeoTimeClock\app\src\main\res" />
+      <recent name="D:\GitHub\GeoTimeClock\app\src\main\res\values-v21" />
+      <recent name="D:\GitHub\GeoTimeClock\app\src\main\res\drawable" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android Application.app">
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <Native>
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      </Native>
+      <Java />
+      <Hybrid>
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      </Hybrid>
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <Native>
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      </Native>
+      <Java />
+      <Hybrid>
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      </Hybrid>
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method>
+        <option name="Make" enabled="false" />
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="false" name="app" type="AndroidRunConfigurationType" factoryName="Android Application" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="true" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <Native>
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      </Native>
+      <Java />
+      <Hybrid>
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      </Hybrid>
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Android Application.app" />
+    </list>
+    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0accf0bf-156b-498d-b0c0-2315811ee67f" name="Default" comment="" />
+      <created>1464457839933</created>
+      <option name="number" value="Default" />
+      <updated>1464457839933</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1932" height="997" extended-state="1" />
+    <editor active="false" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969698" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969698" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969698" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24960339" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969698" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32976446" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969698" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="true" show_stripe_button="true" weight="0.32869378" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="1259" y="84" width="632" height="844" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969698" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32976446" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="25" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values/values.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19006479">
+          <caret line="298" column="0" selection-start-line="298" selection-start-column="0" selection-end-line="298" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Android/sdk/sources/android-23/android/os/AsyncTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="287" column="0" selection-start-line="287" selection-start-column="0" selection-end-line="287" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         ûkSü<${÷h¨ŸAZùû‚È	 	€G ’ÁõM:;¼< N¦-Üå5²¥ÿ  !BIDATéD#ê™¾8X‡ÇœP46wJ[Çu.ïÔüÀ áÔ.È©Œ<Yáü¦¤KÊÉ,éí»9æ×i¸Ò©`rò=K03·TÎTê¨_yåý¨Ócë»wï¾Ä63¯L±20^–oŒUÙÜ7¦úkŒÕŸQ¼ÏU{åxz¡Žô‚¨å{! ‘ 89—5ðéÚ(Ê 4€h¸XV§’§í·:®u÷Jô	‰N’W>˜÷ÖmÞ-›vDK{çµqˆp[¥ôr£dy˜ "~ô-\,­×´KÛØkÛÐó‡³DO2]€U7ø„×§<Šüƒ£kä_yfH H <
+¨½–T4Êþ#YJ<% ¼5=@á¿3IC’%Ó¸Kj¥»÷¦.FÏl_DG×uÙ'~Û#¿@ ¦Í_'3úŽ¯mÌ¯SRÑ`DÑUQ[ÓÑ—KNþe©¨j6œüµÇhíè–Î«}ÚÃ€1Õþ1Èü"ê¿j—•C‰ë“Õ
+Oð2#8ÿ5[öÉÞäLÉ3~SHübr€€ÀÂ 	@& å OŠ6ì±-â¨FLuÆ%Š(êþƒ‡täc@K{—¬Ü"KÖíø0Q]7ö©¤ˆ­¬ ˆ4?"}g®ª¼£Y,¨v"«5i~Ç=Hû#ò‡óGäß{cÀçž  Í €èVŸó×DÊ2ƒÀ`ÂMŽÕWŒè¬OoÝ¡C· x4ÅqOòŠª$#§Ô  ÖLõçÑ?&Æ³‰Møéq³ü±{ï)Ù~DkýïÌØä1ÏºýÑð‡š?Òþˆüáü})ò' ð
+ ‰L F=5ðÁœ-J` "í€6/ž;öd€RTs,¾þÛ	Ïä¸£«g\Wv#K…õÇxÞVÎÓSŸ7Œú!òGÃ"oÙìG@às@šÑ3¢hˆY]1p8`ñÑ³·èøQ\ÒYIÏº¨êc­í×u™ÓÖ  íÝÒfÀªë3s‰ú\4œ4Öùöôöù;EdŒÏ\nü½\[ÆmE@¼ÌYîqÏšýcÎÏJ9ÈhøbäO@à]DàzŸF&öÔÈÄÄäùA²¥äL8op¯€% Ææ´îm8Y+ ”&PûGyª~Cã@ó'™x,GVoÞ«QóëSü=ö¹‚¼/>D~ù{£¶?	 	€OŠFýÞ¬Í
+O½¨>œ³U¬Ž‘)RTR+e•M©tµ<`³ K	€©_v¹Q÷;¸£û‡Y¶õw : êýç/Tï¯I*ª›•4Þ¾ó|M¥ƒ·î*y@¶NòhZ¾„Ä¦ª¢å[Ó6Êk“ý<îy‚! mÈûBáý¾0çO@àS «G& ð”q¤/ïØªŸgÏt½ÜþÖ®# &éÊÈ)që?êïËê5˜2¾éƒÓ1Rˆáµ–mŒÕ¾”7¦nôøçÇÔß(¯¾¢¤æžKû’  ø4PÏ‹ÚZÚ:Ò~žNÞŸµY¶„–˜T©¿Ò©Jtøœ ôÛ!ÆÂßþéàw~¢¨®¿ò\p€; ¦²Ï—«ì02X©[ÛÐ¦hn»¦À<?&G>{F€ÐŸ Ðœ5>cê™"•ñÅhßëS=7åÿ¨æ¿^æ¯‰PTÕµêbŸ!   ïf”Íxr9`$UA3ËMzd¨!ðtðî´%òÞô¥R×ØòÌJwfÖÅ•sÿ 8»•5-š}¯E=O\þ†#4·N]¸S£dOSñ{šÈÏ'«vkÚŸ;8H H H H H H H   _€Ù¼u©¼^ò‹«äÓ5‘ÚŒQ o ºzØ¸°ÿ‰}B.U4¨³‚`Ï-ê”¬Ü"9ž–­Î0	@Ê©,ÉÌ)Ôÿç™pÇkÖÚ]I 
+/ÖHMCÛ¸Šùà\ yðÐ‰s2}ñ.uú¯L\¯ðrŒqZ4Ï¢_¥‘±È“   xP;…ÀÎÂµQÀ¤^•  „„Œ :œ• øàlsÿ£m€©é9_   øoýD Pçïº6Ž û¦FûÉÇsmò½Û½î90f£Î<Žüy’  ø0Ðôƒå%Õõmê vTÁ 7§oôš‹óÙoNÐB4oaÁIXÜII=[$õí>±ÛMpÈ|`›®k=ŠÛ†#À{ÖF9w hÞy®‘h„€ÏÅòýý1Æ7oån™±$XÞ7"äwg>ÎyËùŸ±$D¢œ–”Órsà¶î*03€¼I H UÄPPäQ€0%àm‰ÙËÃdãÎ$ÕFÀÈå…ŸSßM ¦®MçÔŸGÝüÈAã">~;5óõ†wô LˆÏŠ›<·$ $ Ä0™€Q5µt©¸ê„hšô‰÷¥B1¿æÇ)vhô·Ä/F6‡’ð¸“Rp¡Z.”ÔªÂ U­E Š.ÕjãVö¢q4l}S»T×µÊÑSçUªwCP‚,\·çñ’¬÷fnÖhÿ•‰ë¼æ|c™4ýWÆËÁã¹’_ñH5óæ Ï-	 	 ñôîgÔ‘…äîÇ‹ƒ½62z\"0¢?8ƒ…ë¢$5½P÷PTÈz k®ñZ½7FïÈJ*´Ç%$ú„f}&ÌÝæýçyÊ£U¾ØFˆÏÞx¥“ç•€€ÝjSŒVA3«M.»ªø‰·^˜¿›¸^Þ˜ö(+°`M¤8àXznFƒÈÄR ,’4Êr$ £ÝàW¡ËvP¢BßQ¬¥ l#ì¸Ú#Ù’eD¼¡1©Š•›âeùÆX™¾h×#ñž)Þ›êG—ÿäA²=â¨9y^.”ÖéÒ#ôKðn#  ž}¥°= ~¸Õˆ&¼=r!HË(Ö.qôJ CÂ®# ç
++u‘Ïµë7†}(]€ íIH×†7DÀ€·H^]DÙ¤ßGSþ$ $ $ c.\¬9F}\§°ôÄŸ<P09°a{‚N ?"%-_¥aÑ/PSß&-í×ô»ÂÂ€ñÅ¥ò=ƒèOiëèÖ)€üâjýþÑÈ‰u×»ö×È‹y¬||FëgtîÊÝ²Ø/Zâ“3ääÙ"=ÈT=Ï”A@@|BÇ<¶½½cÛ#à‹³–†hDDüIíÀÖ9D]WGˆRI žQmëì–ËÆùCM}˜g_µ)^Ï"Þ|ù,n3ˆ2uMš¢ò%	 	 	À¸Ñæåkê[µ[Êzæ&1_J³š˜0g«ÌX,Ëýcesp²6™í;”%‡RÏi×õ¹¢J]?{¹¦E:ºzP^‘úÌKúÆ‹ œÎ,Ö»Ù­ï2j_šA°N‘m¦8š¥™—°ØT-É,Z­óí¨é£ëÝ—Îž¹ÂýÈLÎº¨cX‹Íþ   '
+Ê|®QFO_ÿãF9o’Kl"h J105åá(‘%xžùuo% ˜¸@åÄé‰M<£Ø¸3Qü‚dÞŠ0™¹$Ø+ÖîŽ›Ìµ³¿!'¿\3"·}PÙ’€€ÀM;ÀŽuÌ™µ4TÅT°bÔ3öÑÙsuc¯
+Ü«"WàÄ™B¯DwvÉåFO¯mlWR€w×õ>ƒXè¼6ºÝÍ•ÆVèžF N½ «sOÎý¸áÜÑ•ž|,WfË~#ºß{0SbÎÈžýésBB¢°+I‰LbL…$ï'Û|¦ßäË&U d‰1F“xWT_QId(yòn"  pÒ2.h‡Q+D&Þ$£ê¼5-@¿§«#´ ZÒåðÉ<Í ÁýÍšm±êî‚§€äãçäÀ‘,‰?˜¡QýÎ¨êWnŠÓNõ™KCT„ç/VœO ÏNKè!nð#  °ò
+/KÎù
+Y½yŸÎÑ8w«¼5=À+6:G‰Ð_IÀìe¡²pm¤:Ft°c|í %K+ŒÜ9g|¯Õõ­ºù®¹íšM†öèîí×r²èüvz@  õHq4€sA†²¹ÃýML;àµÑRTR§ÀûFG~Â‘lEä¾4	M•]{Žé:ŒSbK§àü§~ºS?¾ž‰á7ZB"U“çéY‰ÚÚ Sgõ·>ÿœw	 	 	€E€%+PÏCÔ‡hip^æãë1°ÔÞÐkg|çÐkpÄ‰³EZ'¾XZ§Y…Ñ YdtŽœÌöoÆ$Õ×^a8ôk"ïÏÚ¬½7Iêº»”‚´dC´þ~åUM¼cH H H ¬­€ˆ4áh¶lÛ}äq_ .38/_î/°Ì/æ	'+	@ö þPæ€²BN~…fi.–Õ
+èÊ?r"OëõÃýÍ#ºÇk/õ‹–OV…+àü±I`l@C-Vrc"ÿ5›÷éobÆ;†€€Àc áD/aq©¯Q"/y‚óVíÖŒNZÖE-ÅPÌ‡€F@@$ 	 	 	€çh SYoß€®Þ{8K¶„æeOÐïÿt§Ì]®”—Êë¥½³[†î?²É€Fàù€ðH $]ÑD†±7^þ±VGg1‰†KÔù¹‚š€FàuâAÈ@¦£e!+­l’ÜÂJY/+âèßž·M&~²MÇù • R|õzŸŽ]ªŒïCêø“ ÐÆ• P0ÃZ@Š‘N}S‡ŽbžÎð`4ý0Ø&‰qË¾\ÙkYÅÓ»w¥±±Q’““I <ˆ |Æ€Å{Œ‡$ R·hl¸Ò©R±À§k#eÞŠpym
+å_	é›°NÞœºQÇ#!ô•ÔJqY½Fýè‹¹ÿàï‹€Û·oKCCƒ<xðs ! ÆwƒÀóšMšõÛ¨ÈŒ¯¯x%¼c¦b>ØiŠ(¡†~œy>ûV^tõP¤¦¦Fo“ X› ü™I <xPIàyl"BÀ¥Š).­S1¡˜Ä3²Ì?Vf,	¦f<aý…=­×m“æÉ†‰*†u*³XÒ³.IcK—B;ü°Ãßê0üˆôõõIYY™ìÝ»·•ÀC€ÁÚŽ:€ÿüÏÿä¡ö04^éÔŒ ö¿##ðÑ¼mt2„GÈ÷Î_¡Ñþ©¬bö¹®×û”††äúõëRTT$‘‘‘ù$ B ÚÛÛ7pÀd…±W û†\(©•ŒÜRÝ/qT'¦,Ø¡Úót:„;eWXU<}ñ.Y¶1V¶„–ý‡³tís…A^ëš:4âÇ,ŸiÏ# †/‘ììl	Ž±# F`aPPPð6'¼]W{5#|<W3Ø3@'D¸u«ãø×oOÐˆ¿àRÕû¼h ¹¹YNž<)þþþóH ¬G ¾ê@ ¾ƒiãÆÿBà}ÀÚŽ®ÍNÍ“˜„3²ûåãULeò‚tJ„Ó×8£9uÞÊÝ²Ä/F#þð¸“r,½@
+sÙØÜ¥³ü÷p–ß ëêêT`òäÉÿ{ðU ‹€üà?BÍŸ% ï"­+­WåbY½j§c+áL|ôÉvá‡l/fø!hÅgÑ;ÓÿÝÝÝÚ ¸oß>ùÞ÷¾÷ßmà;$ Ö& ß3ðß3†kdÀ{p÷ît]ï“ºÆv9rê¼$¤dËRÿÅÇ‹v)Þ˜ºQk´\CL<ûß:™0w›R½À¦dÙ~X²òÊ¥´¢Q§Vø,zgú¿­­Mëÿåð)6ßBà	 °°pò›ÀË ¾óà"+0xë®¤¦*f/ÓˆíÕÉ"žçCf	¸\ýH£‚Í|¾“þ‡ ÐñãÇ%  `	€‡€×_ýï âà8
+Hà½àÎ{:r…ô,°nÛY'ÓíÒôí»3å­éJ ÒÆÌ ±œd‹0Yòáœ­2uáN™µ,T'O€úÆv•­~ÀÚ¾×ß!Hÿ_»vMJJJäÀòoÿöoÿL`mðð—~ÜÑÑ‘ƒeöY  ßä†Á%¦dkD·`M¤vo#Ê£ôm|0{‹¦÷±“Y£Üü
+ÎîûpôëÖ-] töìY	«€/±ù{ð k€¯@ ~÷ÚÍ›7µžÃ,€oãJËU©ªmÑÂ˜²xC´Fzo$ ³ÜPpC$ˆº/¢wâ·¶ŒÏïŒß¿÷ï'mPád†®‹’Í!ÉrêìÉ+¼LàÃÑ?šÿ***tÐ’%K¦Â—Œ@ ¾F`ð¢oø®I ^xá…¿6~Ì~È9:®Ø$  ,d)ºT#i™Åšðß‘¤™·§Ðiz 'H?ú@ºFúUWt#å áìù,öÑ?šÿ"##ï>ä§và»6ó"	€{	À	xÉÀü$))iJgg§  vÇo|   >Œþ‘)Fí£ˆþW­Zµ>ÄæK^úðÇ$ ®%øÒ¿bûþÄÀŸø–¿0ð“ îçõõõ]é@S #	àáçB4vA®õÎÝ!MûöÞÖ5­YyeŠ°ø“—*3–†è’NX»sŸØ(yèx®¢¶¡MznÜÔ	¨ô=FÄ‡ßŸ÷ fq‰þAí?<<¼ï«_ýêßØ€Ø|Ë·l¾æOl¾ç+và¿ ¸¶ð›ãpà¯@¼á§¯×ÖÖ
+2Hñ Õc>ô|ø‰á€q/d€èÄ3²'!]f/Õ‘Â×H ,­Ô‡f¾€]‚B=‘>;ø‰‘Rÿ$bñ„fÏžý|‡Í‡üÕà›búßÍÀü¦Mªñû¶±toþµ¿ÉÌÌLÂ^çÞÞ^1Ç{2@ö)ÁÛh3ÐÓ×¯hí¸.-í×¤¬²I.”ÖIêÙ"I<š­M…~A‰²hý™0o›ŽÒ;“É§k"UY™½‡2%=ë¢ä\–†æNö€8J;Žî?^¿Ëçœø¢óGê¿««KÊËËåØ±ct>Ãæ;~ló%#m$°¨À_Ú~¼—üü¿øÅ¯+**þÐØØ¨$ BøáAX ž7§‚ˆ²¤¢AµŽ>-\³eŸf>˜³…ÎÚYuüÅÁºjgTŠ.ß9m8Œw6·^åÙ$ž«î•¿UUUrúôiÙ½{÷~ö³Ÿý|†Íw7ÈE@0	ð’­{5œŸøÅÂ…_EŠå 4{€@'ÀÌ£*¤_]v÷öK{gÖ˜kêÛ¤är£^ª1¢ÒKr2ã‚ìMÎ¸¤³º4˜·2\æ,“‰ó¶éü9FÑ|Ý©£§ßÉÜá²aG¢b—A¨‚÷—C©çäØéÉÉ¯‚‹5š}©®kÕï»½«G®ußÁÛÙ#žÙùãîG0ˆº?ºþcbbdÒ¤IïÃWØ|ÆOl>äË I ,0	ð'¶gØ> [Jçoƒƒƒ—åää<&ýýýÌã¼Häfà ÐCPP\­Ñ*°:p¯F°‘¬öPˆHëöøNVÆk¯pÂpú¨ßƒTaáÓ»tð„sœ?üÁÞ½Æs¹r¥|„ÍWŒTÿÑ® l© )_ø»}ûöãGGO€9"hN°'€s]ñ³Ït¢ b2¨Ew]ë“º¦²«u™Læ¹R9•Y,'ÎÉ¾ÃY¹/MWËG—­áG´›eHÛ/82ñÞ¬ÍÚo awÊè:¾/3š_¹)^?ƒ¿Ñ£)ogdŠ~ÆØÄ3Z69x<W?;¾|'…F„_eD÷ „›àø±lSlà#Æ³æ±8ÿsçÎiÓŸ¿¿,|ƒÍGüü)õÿ/k $pCà…§ô<Q0ð+o0¾è¬¬,©¬¬”ööveƒ˜ 	 ÜÎ®­e—V4hÖ ä ƒýG²4"?¥Q²=¦-ÚùhÑ‘ËPQt|_pøèÄI:«Ÿ!åÔyæó
++õ366wj†%þö„«?jþÈ #„óH‚O°ùÇô?ëÿØðÔ2€éýCdddXzzº
+?477ëÁ0û8!@¸ý·5[€‘µÖöëÒp¥CJ+›´§ ¨´Nëßhx³Ç¡Ô<I>qNâfHŒU;"Âˆ¶1¡€ÅÍ¡‡ž¡±©ÃþmxmÇ÷òý„â²zý—§º=õð¡±€ìæñùÛ®’øE€‡n}þâââdýúõqð6Ÿ0šô?ëÿì©ð=[
+çG¶ŽÎ'² þqóæÍk°òÍXÿˆ’€9%ÀAÂ“Æ8DÚmÝy?zzûù]ëøÍ¨rð---ì¥¥¥ITT”,[¶, >`˜èÿe›Ïø²ô?ëÿIxØ, ÀÇü^RRÒÐ	Š"€² co ‰ á9Íˆ÷µ~ÞcDÜ ÏƒÁ;ü.	tüàÈ!¨C¿W^^ž>|XvíÚõ‡‰†ÙœÿHÑ¿£ü/7 zHÀ^Ð¾Ð1`Oþéå—_þŸ¡¡¡§¡" Qh e"€ô3AžáøQÒE0W\\,'OžÔ1¿M›6eüä'?ù_¸óœÿÓ¢Gù_ ‹€§©þ™]À¾À~"àq)Àv ~=cÆŒiQQQ7 …QdÐ-
+™HtŽšBÌ
+AXÃéã>Æ½Œ±nm¸³/]º¤â>hôÛ±cÇÍ)S¦ÌÀo»ëíSÿöÿöµûèÿËÔÿH ,˜°ï°Ÿp,<A¾ò•¯üóÒ¥KWEDDÜEF Ë!
+
+
+´yY°K6”À8q íI‚ ÆÏÑ›Î÷,î[Ü»¸1ÆM¬ñÅ»:55U›üÇoÁ‚kq§ãüSÿŽÿŽµFÿntÌØ÷˜¦.Àp¥€'H€üËìÙ³ç‡¨:66VRRR”Q"3€FIbÂÁC	Fd	p0	‚ ˆñîUÜ¯¾Ð£…{µ}ÜÅpúhî;pà 6ùÉæÍ›k>þøãù¸ÃÍû|çoŸú7çþÍÎ{å¿á¢ É|Ç®!Ð±ðT`à ¿ùÍoþÏ’%KƒU»{÷nIHH¤¤$ÝúHjM8ŒÊDü3A16ànEZ???_222tqÒû²sçN8ýÚE‹þë¿þëÿ5ïíQ8ÇÔ¿Ùø÷FÿžÛ0œ.€})à‡£$_ À‹/¾ø›ÿøÿxcöìÙ~«V­:b¼Rã ^»k°Ï?€†††JHH:N	‚ ˆq€qÏÞ
+
+º†;wÝºu‡çÎ»þßÿýßßÄlG;8þÑ8ÿ:¤þ‡›ûgôï!Y Ç†@{q ï’üÃ0Ù€_;²áðÏA„Sðe÷ï¯‡‰úÿa”Îÿû©ÇÆ?Fÿ’p,ØOü…Ãhàp$àWö:ÏI‚ ×`8Ço?çÿ«œ¿ýÈß_8týYêŸÀâŽý Ã‘ ûLÀÏl¡¿!0\i€¤€ Â=Î~¸TÿpQÿ/mwûÏ"ÿáœ¿cÝŸ©/(|Ã¡)p¸r :A:B6À$Ã‘‘A1þø§œ¾½ãwŒúj»ã‡KûÛ7ý}c© )ŒD¾í@Ðúã?z4jŸp$#‘áHA1~p¼o¾£ã·úb»ãÿj˜š?¿‘ ûr :?_rè0³öDà—#¿w ŽøG‚ â™0Ò}jç::ý_:8~û¨ß¬÷¿d»óÓþöÎŸu/ê0›G"û0%ƒÍlÀpDàçÃ“üÊAãû»öo‡qú?Áñ›Q¿)ñûçÏàüY÷÷à,ÀH™ s:ÀüŽ]6àv‚&0KŽdÀ$&)ø¥9 ‚ Æû»õvßÑé›©~Óñ›~?°‹ú¿óGÿÎßìöó'ð"ð5ðM‡lÀ÷íÊfFàÇvdàeB`’{üA1&8Þ«?spø/Û9ýÛEüfºÿûQÿ7œÿ×F¨ùÓù{1	0GíKÃïÙ•É€=!0IÁËvä€ ‚;ìïÖŸ88|G§o¦úGrüö)ûQ?:$öÙ ûÞ€oÙ³4ð}ÛÁzÉüÐ®\`O‚ ˆñÁìÒú?tpø/Ù9}3Õo:þo9Ôúí£~:"öÓ#eÌ²€}FÀì0ÉÀw=)øK;r@AŒöwëKv÷®éð¿kçôÍÿ7í¿}­¸¨¸n:Í|Ý!#ð¢í }Ó.3`OLR`{|Ÿ ‚x.8Þ§ßµsööÿÛNÿE‡ˆÿëŒúi#‘€Ñû¬€#!0IIFÂŸAOÅÓîÐoÛ9{G‡ÿ¢]´?ÇOçÏ’ÀS‰ÀpdÀž˜¤À‘Œ„oAOÅÓîP{Gÿ§v÷ð7ìîgG§?ZÇOçïã$À‘8fL2`GR`ÿJAŒïW{gÿu»{ù…a¢ýá??í™ˆÀp™GRàH‚ ˆñã=û‚ƒÃwtútü´ç"#‘áÁWˆÁpx ‚x&<íNµ¿{‡sø_æôéøiÏLÉÀp¤€ ‚p>†»‹ÿ˜ŽŸæ"0!x1 ‚ Æ#ÝÃO»»i´q%£!AÄøb´÷2ær2@A¸4ÉA<F£Ñh4F£Ñh4F£Ñh4F£Ñh4F£Ñh4F£Ñh4F£Ñh4F£Ñh4F£Ñh4F£Ñh4F£Ñh4F£Ñh4F£Ñh4F£Ñh4F£Ñh4F£Ñh4F£Ñh4F£Ñh4F£Ñh4F£Ñh4F£Ñh4F£Ñh4F£Ñh4F£Ñh4F£Ñh4F£Ñh4F£Ñh4F£Ñh4F£Ñh4F£Ñh4çÙÿ
+X‹Ã­k"    IEND®B`‚

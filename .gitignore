@@ -1,0 +1,65 @@
+# Original File
+#*.iml
+#.gradle
+#/local.properties
+#/.idea/workspace.xml
+#/.idea/libraries
+#.DS_Store
+#/build
+#/captures
+
+# From Article:
+# http://stackoverflow.com/questions/16736856/what-should-be-in-my-gitignore-for-an-android-studio-project
+
+#built application files
+*.apk
+*.ap_
+
+# Crashlytics configuations
+com_crashlytics_export_strings.xml
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Windows thumbnail db
+Thumbs.db
+
+# OSX files
+.DS_Store
+
+# Eclipse project files
+.classpath
+.project
+
+# Android Studio (Mantengo idea excepto lo que se incluye)
+*.iml
+/.idea/workspace.xml 
+/.idea/libraries
+.gradle
+build/
+
+# Signing files
+.signing/
+
+#NDK
+obj/
+
+# Marqued as optional in article
+# Optional - for older project format
+/*/out
+/*/*/build
+/*/*/production
+*.iws
+*~
+*.swp
+

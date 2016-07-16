@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditTextPreference
+        android:defaultValue=""
+        android:enabled="false"
+        android:inputType="text"
+        android:key="@string/pref_Asset_IMEI_key"
+        android:singleLine="true"
+        android:title="@string/pref_Asset_IMEI_title" />
+
+    <EditTextPreference
+        android:defaultValue="@string/status_available"
+        android:enabled="false"
+        android:inputType="text"
+        android:key="@string/pref_Asset_Status_key"
+        android:singleLine="true"
+        android:title="@string/pref_Asset_Status_title" />
+
+    <EditTextPreference
+        android:defaultValue=""
+        android:enabled="false"
+        android:inputType="text"
+        android:key="@string/pref_Asset_Starting_Time_key"
+        android:singleLine="true"
+        android:title="@string/pref_Asset_Starting_Time_title" />
+
+    <EditTextPreference
+        android:defaultValue=""
+        android:enabled="false"
+        android:inputType="text"
+        android:key="@string/pref_Asset_Id_Task_key"
+        android:singleLine="true"
+        android:title="@string/pref_Asset_Id_Task_title" />
+
+    <EditTextPreference
+        android:defaultValue=""
+        android:enabled="false"
+        android:inputType="text"
+        android:key="@string/pref_Asset_Task_key"
+        android:singleLine="true"
+        android:title="@string/pref_Asset_Task_title" />
+
+    <EditTextPreference
+        android:defaultValue=""
+        android:enabled="false"
+        android:inputType="text"
+        android:key="@string/pref_Asset_Address_key"
+        android:singleLine="true"
+        android:title="@string/pref_Asset_Address_title" />
+
+    <EditTextPreference
+        android:defaultValue=""
+        android:enabled="false"
+        android:inputType="text"
+        android:key="@string/pref_Asset_Work_Duration_key"
+        android:singleLine="true"
+        android:title="@string/pref_Asset_Work_Duration_title" />
+
+</PreferenceScreen>

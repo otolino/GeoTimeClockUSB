@@ -1,0 +1,62 @@
+<resources>
+    <!-- App -->
+    <string name="app_name">Geo Time Clock</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Main Activity Layout -->
+    <string name="main_task_title">Task</string>
+    <string name="main_starting_time_title">Starting Time</string>
+    <string name="main_elapsed_time_title">Elapsed Time</string>
+    <string name="main_btn_checkin_title">Check-In</string>
+    <string name="main_btn_checkout_title">Check-Out</string>
+
+    <!--Permanent Settings-->
+    <string name="title_activity_settings">Settings</string>
+    <string name="pref_Asset_Status_title">Status</string>
+    <string name="pref_Asset_Status_key">assetStatus</string>
+    <string name="pref_Asset_IMEI_title">IMEI</string>
+    <string name="pref_Asset_IMEI_key">assetIMEI</string>
+    <string name="pref_Asset_Starting_Time_title">Starting Time</string>
+    <string name="pref_Asset_Starting_Time_key">assetStartingTime</string>
+    <string name="pref_Asset_Id_Task_title">Id Task</string>
+    <string name="pref_Asset_Id_Task_key">assetIdTask</string>
+    <string name="pref_Asset_Task_title">Task</string>
+    <string name="pref_Asset_Task_key">assetTask</string>
+    <string name="pref_Asset_Address_title">Address</string>
+    <string name="pref_Asset_Address_key">assetAddress</string>
+    <string name="pref_Asset_Work_Duration_title">Work Duration (Hours)</string>
+    <string name="pref_Asset_Work_Duration_key">assetWorkDuration</string>
+
+    <!-- Data Strings -->
+    <string name="status_available">Available</string>
+    <string name="status_working">Working</string>
+
+    <!-- Async Task Aux -->
+    <string name="type_checkIn">CheckIn</string>
+    <string name="type_checkOut">CheckOut</string>
+    <string name="connection_result_ok">Ok</string>
+    <string name="connection_result_error">Error</string>
+
+    <!-- Api Result -->
+    <string name="api_result_ok">0</string>
+    <string name="api_result_no_task">1</string>
+    <string name="api_result_not_yet">2</string>
+
+    <!-- Messages -->
+    <string name="msg_checkin_process_title">Checking In</string>
+    <string name="msg_checkout_process_title">Checking Out</string>
+    <string name="msg_checkin_result_title">Check In Result</string>
+    <string name="msg_checkout_result_title">Check Out Result</string>
+    <string name="msg_checkin_ok">Your Check-In was successful.</string>
+    <string name="msg_checkout_ok">Your Check-Out was successful.</string>
+    <string name="msg_checkin_not_yet">You can not be checked in, because you are at %1$s meters from your destination.</string>
+    <string name="msg_checkout_not_yet">You are at %1$s meters from your activity place. This will be registered as an incident.</string>
+    <string name="msg_checkin_no_task">You have no activity scheduled at this location.</string>
+    <string name="msg_checkout_no_task">Your current activity was not found, please contact your administrator.</string>
+
+    <string name="msg_wait">Please wait...</string>
+    <string name="msg_no_gps">We could not get your location, make sure the GPS is turned on and try again.</string>
+    <string name="msg_no_network">We could not contact the processing server, make sure the Network is active and try again.</string>
+    <string name="msg_critical_error">Critical Error, please restart your app.</string>
+
+</resources>
